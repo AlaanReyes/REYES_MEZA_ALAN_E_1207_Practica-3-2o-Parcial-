@@ -1,4 +1,4 @@
-print("Welcome to PRACTICA 2 2NDO PARCIAL!")# Mensaje de bienvenida al usuario
+print("Welcome Practica 3 2o Parcial !")# Mensaje de bienvenida al usuario
 print(" ")
 print("REYES MEZA ALAN EDUARDO_1207 :   3W")  # INFO DE PRACTICA Y PROGRAMADOR 
 print(" ")  # ESPACIO
